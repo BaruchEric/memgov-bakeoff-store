@@ -14,4 +14,4 @@ namespace: conformance-acme/user:acme-u1
 x-memgov: { candidate_id: 6751cf39-07f2-4dfd-a6ed-10a89cf993e7, memory_type: preference, confidence: 0.8, trust_tier: human-reviewed, subject: null, attribute: null, committed_at: 2026-09-01T00:00:00.000Z, committed_by: human:smoke }
 ---
 
-Eric drinks a double espresso every morning before work
+edited behind memgov's back
