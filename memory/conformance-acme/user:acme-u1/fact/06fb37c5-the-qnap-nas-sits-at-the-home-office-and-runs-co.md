@@ -14,4 +14,4 @@ namespace: conformance-acme/user:acme-u1
 x-memgov: { candidate_id: 06fb37c5-4b6a-46c3-93eb-9bd8af7c047e, memory_type: fact, confidence: 0.8, trust_tier: human-reviewed, subject: null, attribute: null, committed_at: 2026-09-01T00:06:00.000Z, committed_by: human:conformance }
 ---
 
-The QNAP NAS sits at the home office and runs Container Station
+edited behind memgov's back
