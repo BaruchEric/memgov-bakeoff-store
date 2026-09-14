@@ -8,10 +8,10 @@ sources:
 generated: { by: conformance-agent/1.0, at: 2026-09-14T15:08:18.103Z }
 verified:
   - { by: human:conformance, at: 2026-09-01T00:33:00.000Z }
-status: stable
+status: deprecated
 key: bf80e573-ddd4-45fb-9e27-2831717a499c
 namespace: acme/user:acme-u1
-x-memgov: { candidate_id: bf80e573-ddd4-45fb-9e27-2831717a499c, memory_type: fact, confidence: 0.8, trust_tier: human-reviewed, subject: dana, attribute: employer, committed_at: 2026-09-01T00:33:00.000Z, committed_by: human:conformance }
+x-memgov: { candidate_id: bf80e573-ddd4-45fb-9e27-2831717a499c, memory_type: fact, confidence: 0.8, trust_tier: human-reviewed, subject: dana, attribute: employer, committed_at: 2026-09-01T00:33:00.000Z, committed_by: human:conformance, superseded_by: 853401a3-1d3f-435f-9fa0-812f25618653 }
 ---
 
 Dana works at Kaiser in Woodland Hills
