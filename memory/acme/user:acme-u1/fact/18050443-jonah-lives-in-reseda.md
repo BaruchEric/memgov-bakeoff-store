@@ -8,10 +8,10 @@ sources:
 generated: { by: acme-agent-2/synthetic-1.0, at: 2026-09-14T15:11:01.318Z }
 verified:
   - { by: human:acme-admin, at: 2026-09-14T15:11:20.679Z }
-status: stable
+status: deprecated
 key: 18050443-9e40-4fe1-88d6-edd88e20613f
 namespace: acme/user:acme-u1
-x-memgov: { candidate_id: 18050443-9e40-4fe1-88d6-edd88e20613f, memory_type: fact, confidence: 0.65, trust_tier: human-reviewed, subject: jonah, attribute: address, committed_at: 2026-09-14T15:11:20.679Z, committed_by: human:acme-admin }
+x-memgov: { candidate_id: 18050443-9e40-4fe1-88d6-edd88e20613f, memory_type: fact, confidence: 0.65, trust_tier: human-reviewed, subject: jonah, attribute: address, committed_at: 2026-09-14T15:11:20.679Z, committed_by: human:acme-admin, superseded_by: 641073de-b152-47e8-bec3-3dacbe096d1d }
 ---
 
 Jonah lives in Reseda
