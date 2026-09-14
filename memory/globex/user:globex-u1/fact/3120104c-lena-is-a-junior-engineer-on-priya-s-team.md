@@ -8,10 +8,10 @@ sources:
 generated: { by: globex-agent-2/synthetic-1.0, at: 2026-09-14T15:11:01.343Z }
 verified:
   - { by: human:globex-admin, at: 2026-09-14T15:11:59.983Z }
-status: stable
+status: deprecated
 key: 3120104c-7816-4b34-88a7-47cdecb70687
 namespace: globex/user:globex-u1
-x-memgov: { candidate_id: 3120104c-7816-4b34-88a7-47cdecb70687, memory_type: fact, confidence: 0.75, trust_tier: human-reviewed, subject: lena, attribute: role, committed_at: 2026-09-14T15:11:59.983Z, committed_by: human:globex-admin }
+x-memgov: { candidate_id: 3120104c-7816-4b34-88a7-47cdecb70687, memory_type: fact, confidence: 0.75, trust_tier: human-reviewed, subject: lena, attribute: role, committed_at: 2026-09-14T15:11:59.983Z, committed_by: human:globex-admin, superseded_by: 1e810fd1-45c8-445e-b671-c3f175faf820 }
 ---
 
 Lena is a junior engineer on Priya's team
